@@ -1,5 +1,5 @@
 ## Task description
-Here is a glitchy HTTP server written in Python. The server sends some randomized data on every GET request, but often it doesn’t send the whole data, but just a part of the data. Luckily, the server supports the HTTP header “Range”.
+Here is [a glitchy HTTP server written in Python](/server.py). The server sends some randomized data on every GET request, but often it doesn’t send the whole data, but just a part of the data. Luckily, the server supports the HTTP header “Range”.
 
 Run the server in a terminal.
 
